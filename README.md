@@ -38,7 +38,7 @@ Ou qualquer outra tabulação:
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
     cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
+    git clone https://github.com/Gabriel200107/checkPoint1-disruptiveArchitectures-.git
     cd templatenac
     ls
 
