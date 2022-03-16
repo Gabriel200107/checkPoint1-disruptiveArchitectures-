@@ -5,11 +5,11 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos:Gabriel Assunção** 
+**nome dos alunos: Gabriel Assunção** 
 
-**Turma:1TDSJ**
+**Turma: 1TDSJ**
 
-**Ano:2 ANO**
+**Ano: 2 ANO**
 
 ## Objetivo / descrição do Projeto
 
