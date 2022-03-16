@@ -7,9 +7,9 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 **nome dos alunos: Gabriel Assunção** 
 
-**Turma: 1TDSJ**
+**Turma: 2TDSJ**
 
-**Ano: 2 ANO**
+**Ano: 2022**
 
 ## Objetivo / descrição do Projeto
 
