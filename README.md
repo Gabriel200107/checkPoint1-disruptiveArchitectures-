@@ -52,5 +52,5 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
+* [mastering-markdown](https://github.com/Gabriel200107/checkPoint1-disruptiveArchitectures-.git)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
